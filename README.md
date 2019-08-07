@@ -1,1 +1,3 @@
-本文参考：https://github.com/liuhuanyong/QASystemOnMedicalKG
+本文参考：
+https://github.com/liuhuanyong/QASystemOnMedicalKG
+https://github.com/WenRichard/KBQA-BERT
