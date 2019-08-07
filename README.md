@@ -1,1 +1,1 @@
-本文参考：[https://github.com/zhihao-chen/QASystemOnMedicalKG](https://github.com/zhihao-chen/QASystemOnMedicalK
+本文参考：https://github.com/liuhuanyong/QASystemOnMedicalKG
